@@ -4,7 +4,7 @@
 The requirements:
 
 ```
-pip install -r requirements.txt
+pip install -r requirement.txt
 
 ```
 This is an example showing a controller use image as input to generate corresponding action.
