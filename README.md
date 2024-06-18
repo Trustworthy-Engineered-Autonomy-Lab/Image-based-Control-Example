@@ -41,3 +41,6 @@ The controller will take the image as input to generate an action
 action (steering,gas,breaking) is: 
 [0.1077622  0.17143323 0.09231098]
 ```
+
+
+Actually, the controller should take a sequence of images as input (here should be 4 images). For simplicity, the VAE only generates 1 image and duplicates it for 4 times.
